@@ -1,7 +1,4 @@
 ### Hi! I'm Gustavo Lima 👋
-<!--
-<img align="center" src="https://github.com/JuliaSoaresc/JuliaSoaresc/blob/bd7bda9e80851d2aef1ba3e746818bd1b0870b86/github-header-image%20(1).png"/><a/>
--->
 
 About me
 - 📚 I'm a student in the Bachelor's degree in Information Systems.
@@ -23,7 +20,7 @@ About me
 ##
 
 <div>
-  <a href="https://instagram.com/gustavolimaan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/gustavo.limaan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gustav.limaandrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavolimaan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
